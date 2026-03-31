@@ -25,15 +25,6 @@ https://github.com/BarnabasGavai/free4chat-architecture
 
 ## Other Projects
 
-### MERN AI Flow Application
-
-Full stack MERN application integrating AI APIs with MongoDB storage and production deployment.
-
-Repo:
-https://github.com/BarnabasGavai/mern-ai-app
-
----
-
 ### Hindi Christian Songbook (Flutter Android App)
 
 Mobile application for Hindi Christian hymns with offline support and integrated music playback.
