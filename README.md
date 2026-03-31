@@ -19,7 +19,7 @@ Live:
 https://free4chat.online
 
 Architecture repo:
-https://github.com/BarnabasGavai/free4chat-architecture
+https://github.com/BarnabasGavai/free4chat-platform-overview
 
 ---
 
